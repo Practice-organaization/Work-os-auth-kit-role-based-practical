@@ -214,3 +214,17 @@ Both layers work together. The frontend hides the button so the user does not se
 | Backend role middleware | requireRole function in index.js |
 | Shared Axios instance | AuthContext.jsx - api object with interceptors |
 | Admin changing user roles | AdminUsers.jsx |
+
+screenshots
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/3a5a59c9-2352-45ce-a43d-e91477f3664e" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/263e9fd8-baa9-434b-ab22-32c48911ef0b" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/2eab22ca-3d56-4beb-91be-e77ec68d55bc" />
+<img width="1920" height="862" alt="6" src="https://github.com/user-attachments/assets/1ad26230-bd34-431d-ac29-c817c686da74" />
+
+
+
+
+
+
+
