@@ -203,9 +203,7 @@ Both layers work together. The frontend hides the button so the user does not se
 | GET | /workorders | Admin, Fleet Manager | Returns work orders list |
 | GET | /users | Admin only | Returns all users from WorkOS |
 | PATCH | /users/:id/role | Admin only | Updates a user's role in WorkOS |
-
 ---
-
 ## Key Concepts Demonstrated
 
 | Concept | Where to See It |
